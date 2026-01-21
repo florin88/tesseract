@@ -124,42 +124,6 @@ Prima versione pubblica del Sistema di Controllo Tessere.
 
 ---
 
-## Template per Nuove Versioni
-
-```markdown
-## [X.Y.Z] - YYYY-MM-DD
-
-### Added
-- Nuova funzionalità 1
-- Nuova funzionalità 2
-
-### Changed
-- Modifica 1
-- Modifica 2
-
-### Deprecated
-- Funzionalità deprecata 1
-
-### Removed
-- Funzionalità rimossa 1
-
-### Fixed
-- Bug fix 1
-- Bug fix 2
-
-### Security
-- Patch di sicurezza 1
-```
-
----
-
-**Legenda Versioni:**
-- **Major (X.0.0)**: Cambiamenti breaking, richiede migrazione
-- **Minor (1.X.0)**: Nuove funzionalità, backward compatible
-- **Patch (1.0.X)**: Bug fix e miglioramenti minori
-
----
-
 Per vedere i cambiamenti in dettaglio, consulta i [commit su GitHub](../../commits/main).
 
 Per richiedere nuove funzionalità, apri una [Issue](../../issues/new).

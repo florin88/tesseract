@@ -1,5 +1,5 @@
 /**
- * Sistema di Controllo Tessere - Google Apps Script
+ * Sistema di Controllo Tessere Tesseract - Google Apps Script
  * 
  * Applicazione per la verifica delle tessere associative con supporto per:
  * - Tessere condivise tra più persone
@@ -7,7 +7,7 @@
  * - Log completo dei controlli
  * - Conteggio automatico delle verifiche
  * 
- * @author Il tuo nome/organizzazione
+ * @author Flavius Florin Harabor
  * @version 1.0.0
  * @license MIT
  */

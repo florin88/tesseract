@@ -1,8 +1,6 @@
 # 🎫 Sistema di Controllo Tessere
 
-Vuoi organizzare una festa oppure come associazione vuoi rilasciare delle tessere agli associati e non sai come controllarle?
-Ecco un sistema completo per la verifica e tracciamento delle tessere associative costruito con Google Apps Script e Google Sheets. 
-Supporta tessere condivise, tracking automatico delle verifiche e log completo.
+Sistema completo per la verifica e tracciamento delle tessere associative costruito con Google Apps Script e Google Sheets. Supporta tessere condivise, tracking automatico delle verifiche e log completo.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -391,39 +389,16 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 👨‍💻 Autore
 
-**Flavius Florin Harabor**  
-🌐 [2088.it](https://2088.it/io-nerd/)  
-💼 Sviluppatore WordPress Freelance
-💼 Consulente Web Marketing e Imperatore di Telegram
+Sviluppato con ❤️ per semplificare la gestione delle tessere associative.
 
-## 💰 Donazioni
+## 🙏 Ringraziamenti
 
-Se questo progetto ti è stato utile per il tuo lavoro, considera una piccola donazione:
-
-[Ko-fi](https://ko-fi.com/insidetelegramproject)
-
-Le donazioni aiutano a mantenere il progetto attivo e a sviluppare nuove funzionalità!
-
-## ⭐ Se ti piace il progetto
-
-- **Lascia una stella** su GitHub ⭐
-- **Condividi** con altri sviluppatori WordPress
-- **Seguimi** sui social per aggiornamenti
-- **Scrivi una recensione** se usi il plugin
-
-## 📫 Contatti
-
-Hai domande? Vuoi collaborare? Contattami!
-
-- [Telegram](https://t.me/ErBoss88)
-- [Instagram](https://instagram.com/flaviusharabor/)
-- [Twitter](https://twitter.com/FlaviusHarabor)
-- [LinkedIn](https://www.linkedin.com/in/flaviusflorinharabor/)
-- [YouTube](http://www.youtube.com/c/FlaviusFlorinHarabor)
+- Google Apps Script per la piattaforma gratuita
+- La community open source
+- Tutti i contributori
 
 ---
 
-### 🏷️ Tags
+**⭐ Se questo progetto ti è stato utile, lascia una stella su GitHub!**
 
-`google-apps-script` `google-sheets` `card-verification` `membership` `controllo tessere`
----
+Per domande, bug o suggerimenti, apri una [Issue](../../issues) su GitHub.

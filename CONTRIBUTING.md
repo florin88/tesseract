@@ -1,6 +1,6 @@
 # 🤝 Guida per Contribuire
 
-Grazie per il tuo interesse nel contribuire al Sistema di Controllo Tessere! Ogni contributo è benvenuto e apprezzato.
+Grazie per il tuo interesse nel contribuire al Sistema di Controllo Tessere - Tesseract! Ogni contributo è benvenuto e apprezzato.
 
 ## 📋 Indice
 
